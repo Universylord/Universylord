@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rajan</h1>
-<img align="right" alt="coding" width="400" src="https://github.com/Universylord/Universylord/blob/main/1.png">
+<img align="right" alt="coding" width="400" src="https://github.com/Universylord/Universylord/blob/main/1.png"></img>
 <h3 align="center">A frontend developer from India. Currently studying in 3rd year College of Engineering Roorkee (IT)</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=universylord&label=Profile%20views&color=0e75b6&style=flat" alt="universylord" /> </p>
