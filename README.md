@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=universylord&label=Profile%20views&color=0e75b6&style=flat" alt="universylord" /> </p>
 
 - 🔭 I’m currently working on a tourism Website **Haridwar Darshan**
-- <img align="right" alt="coding" width="400" src="">
 
 - 🌱 I’m currently learning **IOT base projects and backend development**
 
@@ -20,6 +19,7 @@
 
 - ⚡ Fun fact **you know why I don't eat cookies :/ Cuz its dangerous to accept all cookies :)**
 
+<img align="right" alt="coding" width="400" src="[https://www.lambdatest.com/resources/images/news24.gif](https://github.com/Universylord/Universylord/blob/main/Black%20and%20Blue%20Professional%20Technology%20Business%20Project%20Presentation.png)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/r-j-k-a74aa4228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/r-j-k-a74aa4228/" height="30" width="40" /></a>
