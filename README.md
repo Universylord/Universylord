@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **you know why I don't eat cookies :/ Cuz its dangerous to accept all cookies :)**
 
-<img align="right" alt="coding" width="600" hight="800" src="https://github.com/Universylord/Universylord/blob/main/Black%20and%20Blue%20Professional%20Technology%20Business%20Project%20Presentation.png">
+<img align="right" alt="coding" width="600" hight="600" src="https://github.com/Universylord/Universylord/blob/main/Black%20and%20Blue%20Professional%20Technology%20Business%20Project%20Presentation.png">
 
 
 
