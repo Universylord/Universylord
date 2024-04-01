@@ -39,7 +39,7 @@
 <p><img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=universylord&show_icons=true&locale=en&layout=compact" alt="universylord" /></p>
 
 <h3 align="center">Badge Overview</h3>
-<img margin-top="30px" align="right" alt="coding" width="200" src="https://github.com/Universylord/Universylord/blob/main/WhatsApp%20Image%202024-04-01%20at%202.58.33%20PM.jpeg">
-<p> This badge earner can describe penetration testing tools and the benefits to an organization, and can articulate the power of scripting. The individual can describe a deep dive into incident response techniques and tools. They also understand the basics around digital forensics and digital evidence. </p>
 <img margin-top="30px" align="center" alt="coding" width="200" src="https://github.com/Universylord/Universylord/blob/main/WhatsApp%20Image%202024-04-01%20at%203.15.56%20PM.jpeg">
+<p> This badge earner can describe penetration testing tools and the benefits to an organization, and can articulate the power of scripting. The individual can describe a deep dive into incident response techniques and tools. They also understand the basics around digital forensics and digital evidence. </p>
+
 <h3 align="center">https://www.ibm.com/training/badge/penetration-testing-incident-response-and-forensics</h3>
